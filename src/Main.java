@@ -22,8 +22,8 @@ public class Main {
          }else if (bulunan<hedef) {yon=("yukari");
          hesap=(hedef-bulunan); 
              System.out.println(hesap + " kat " + yon );
-         }else if (bulunan==hedef) {yon=("mevcut");
-             System.out.println("hareket yok");
+         }else if (bulunan==hedef) {yon=("hareket yok");
+             System.out.println(yon);
 
                                     
              scanner.close();
