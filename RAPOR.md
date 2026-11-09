@@ -1,30 +1,31 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Ad Soyad:**Bilgekağan Okuducu
+**Numara:**698
 
 ## 1. Problemin Açıklaması
-<!-- Problemi kendi cümlelerinizle yazın. -->
+Kullanıcı programı kullanarak asansörle kaç kat ve ne yöne hareket edeceğini hesaplamak istemektedir.
 
 
 ## 2. Girdi - İşlem - Çıktı
 
 **Girdiler:**
--
+- bulunan kat, hedef kat
 
 **İşlemler:**
--
-
+- hesap=hedef-bulunan or bulunan-hedef, yon=asagi or yukari or hareket yok
 **Çıktılar:**
--
+-yon, hesap(kac kat hareket edecegi)
 
 ## 3. Sözde Kod (Pseudocode)
 
-```
-1.
-2.
-3.
-```
+
+1.BAŞLA
+2. MEVCUT KAT NUMARASINI İSTE
+3. MEVCUT KAT NUMARASINI OKU
+4. HEDEF KAT NUMARASINI İSTE
+5. 
+
 
 ## 4. Akış Şeması
 
