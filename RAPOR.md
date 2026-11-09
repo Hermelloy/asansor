@@ -19,13 +19,13 @@ Kullanıcı programı kullanarak asansörle kaç kat ve ne yöne hareket edeceğ
 
 ## 3. Sözde Kod (Pseudocode)
 
-
+```
 1.BAŞLA
 2. MEVCUT KAT NUMARASINI İSTE
 3. MEVCUT KAT NUMARASINI OKU
 4. HEDEF KAT NUMARASINI İSTE
 5. 
-
+ ```
 
 ## 4. Akış Şeması
 
