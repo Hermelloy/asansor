@@ -38,20 +38,21 @@ Kullanıcı programı kullanarak asansörle kaç kat ve ne yöne hareket edeceğ
 
 ## 4. Akış Şeması
 
-![Akış Şeması](docs/akis-semasi.png)
+![Akış Şeması](<img width="1052" height="819" alt="asansor2" src="https://github.com/user-attachments/assets/cbcbdf7f-cc58-4d02-81eb-a8c8c98dc03a" />
+)
 
 ## 5. Test Sonuçları
 
 | Mevcut kat | Hedef kat | Beklenen sonuç | Programın sonucu | Doğru mu? |
 |---|---|---|---|---|
-| 3 | 8 | 5 kat yukarı | | |
-| 9 | 2 | 7 kat aşağı | | |
-| 5 | 5 | Hareket yok | | |
-| 1 | 10 | 9 kat yukarı | | |
-| 10 | 1 | 9 kat aşağı | | |
-| 0 | 5 | Geçersiz mevcut kat | | |
-| 5 | 11 | Geçersiz hedef kat | | |
-| -2 | 4 | Geçersiz mevcut kat | | |
+| 3 | 8 | 5 kat yukarı | 5 kat yukarı | Doğru |
+| 9 | 2 | 7 kat aşağı | 7 kat aşağı | Doğru |
+| 5 | 5 | Hareket yok | Hareket yok | Doğru |
+| 1 | 10 | 9 kat yukarı | 9 kat yukarı | Doğru |
+| 10 | 1 | 9 kat aşağı | 9 kat aşağı | Doğru |
+| 0 | 5 | Geçersiz mevcut kat | Geçersiz mevcut kat | Doğru |
+| 5 | 11 | Geçersiz hedef kat | Geçersiz hedef kat | Doğru |
+| -2 | 4 | Geçersiz mevcut kat | Geçersiz mevcut kat  | Doğru |
 
 ## 6. Ekstra Görev (Opsiyonel)
 <!-- 3 -> 8 için geçilen katların çıktısını buraya yapıştırın. -->
