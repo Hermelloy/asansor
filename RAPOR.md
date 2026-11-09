@@ -38,7 +38,7 @@ Kullanıcı programı kullanarak asansörle kaç kat ve ne yöne hareket edeceğ
 
 ## 4. Akış Şeması
 
-![Akış Şeması](<img width="1052" height="819" alt="asansor2" src="https://github.com/user-attachments/assets/cbcbdf7f-cc58-4d02-81eb-a8c8c98dc03a" />
+![Akış Şeması] (<img width="1052" height="819" alt="asansor2" src="https://github.com/user-attachments/assets/cbcbdf7f-cc58-4d02-81eb-a8c8c98dc03a" />
 )
 
 ## 5. Test Sonuçları
